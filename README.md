@@ -52,8 +52,8 @@ These outputs are designed to support both performance comparison and systematic
 
 ## Graphical Abstract
 
-![Graphical abstract summarizing the benchmarking framework](figures/graphical_abstract.png)
+![Graphical abstract summarizing the benchmarking framework](figures/graphical_abstract.jpg)
 
 ## Benchmark Workflow
 
-![Overview of the benchmark workflow and training strategies](figures/workflow_overview.png)
+![Overview of the benchmark workflow and training strategies](figures/workflow_overview.jpg)
